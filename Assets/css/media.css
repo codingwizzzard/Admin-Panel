@@ -1,0 +1,501 @@
+@media(min-width:350px) {
+    .w-sm-6 {
+        width: 50%;
+    }
+    
+    .w-sm-12 {
+        width: 100%;
+    }
+
+    .d-xs-block{
+        display: block;
+    }
+
+    .d-xs-none{
+        display: none;
+    }
+
+    .text-xs-center{
+        text-align: center;
+    }
+
+    .card-1{
+        grid-column: 1/13 !important;
+    }
+    .card-2{
+        grid-column: 1/13 !important;
+    }
+
+    .card-3{
+        grid-column: 1/13 !important;
+    }
+
+    .card-4{
+        grid-column: 1/13 !important;
+    }
+
+    .revenue-box {
+        grid-column: 1/13 !important;
+    }
+
+    .map-box {
+        grid-column: 1/13 !important;
+    }
+
+    .best-selling{
+        grid-column: 1/13 !important;
+    }
+
+    .top-selling{
+        grid-column: 1/13 !important;
+    }
+
+    .stores-visit{
+        grid-column: 1/13 !important;
+    }
+
+    .recent-orders{
+        grid-column: 1/13 !important;
+    }
+
+    
+    aside {
+        width: 00px;
+        background-color: var(--main-color);
+        position: fixed;
+        top: 0;
+        left: 0;
+        color: white;
+        border-right: 0px solid var(--bg-right);
+        /* padding: 0 5px; */
+        z-index: 999;
+        display: block;
+    }
+
+    main{
+        margin-left: 00px;
+        background-color: var(--search-bg-color);
+    }
+
+    .gap-xs-0{
+        gap: 0rem;
+    }
+
+    .col-xs-6{
+        width: 50%;
+    }
+}
+
+@media(min-width:576px) {
+    .w-sm-6 {
+        width: 50%;
+    }
+
+    .w-sm-12 {
+        width: 100%;
+    }
+
+    .col-sm-3{
+        width: 25%;
+    }
+
+    .gap-sm-0{
+        gap: 0;
+    }
+
+    .d-sm-block{
+        display: block;
+    }
+
+    .d-sm-flex{
+        display: flex;
+    }
+
+    .d-sm-none{
+        display: none;
+    }
+
+    .card-1{
+        grid-column: 1/13 !important;
+    }
+    .card-2{
+        grid-column: 1/13 !important;
+    }
+
+    .card-3{
+        grid-column: 1/13 !important;
+    }
+
+    .card-4{
+        grid-column: 1/13 !important;
+    }
+
+    .revenue-box {
+        grid-column: 1/13 !important;
+    }
+
+    .map-box {
+        grid-column: 1/13 !important;
+    }
+
+    .best-selling{
+        grid-column: 1/13 !important;
+    }
+
+    .top-selling{
+        grid-column: 1/13 !important;
+    }
+
+    .stores-visit{
+        grid-column: 1/13 !important;
+    }
+
+    .recent-orders{
+        grid-column: 1/13 !important;
+    }
+
+    .set .menu-item .remix{
+        margin-right: 10px;
+        font-size: 18px;
+        display: inline-block;
+    }
+
+    aside {
+        width: 00px;
+        background-color: var(--main-color);
+        position: fixed;
+        top: 0;
+        left: 0;
+        color: white;
+        border-right: 0px solid var(--bg-right);
+        /* padding: 0 5px; */
+        z-index: 999;
+        display: block;
+    }
+
+
+    main{
+        margin-left: 00px;
+        background-color: var(--search-bg-color);
+    }
+
+    .gap-sm-2{
+        gap: 1rem;
+    }
+}
+
+@media(min-width:768px) {
+
+    .gap-3{
+        gap: 1.25rem;
+    }
+
+    .d-md-block{
+        display: block;
+    }
+
+    .d-md-none{
+        display: none;
+    }
+
+    .card-1{
+        grid-column: 1/13 !important;
+    }
+    .card-2{
+        grid-column: 1/13 !important;
+    }
+
+    .card-3{
+        grid-column: 1/13 !important;
+    }
+
+    .card-4{
+        grid-column: 1/13 !important;
+    }
+
+    .revenue-box {
+        grid-column: 1/13 !important;
+    }
+
+    .map-box {
+        grid-column: 1/13 !important;
+    }
+
+    .best-selling{
+        grid-column: 1/13 !important;
+    }
+
+    .top-selling{
+        grid-column: 1/13 !important;
+    }
+
+    .stores-visit{
+        grid-column: 1/13 !important;
+    }
+
+    .recent-orders{
+        grid-column: 1/13 !important;
+    }
+
+    aside {
+        width: 250px;
+        background-color: var(--main-color);
+        position: fixed;
+        top: 0;
+        left: 0;
+        color: white;
+        border-right: 0px solid var(--bg-right);
+        padding: 0 5px;
+        z-index: 999;
+        display: block;
+    }
+
+    main{
+        margin-left: 250px;
+        background-color: var(--search-bg-color);
+    }
+}
+
+@media(min-width:992px) {
+    .d-lg-none {
+        display: none;
+    }
+
+    .gap-3{
+        gap: 1.25rem;
+    }
+
+    .d-lg-block {
+        display: block;
+    }
+
+    .card-1{
+        grid-column: 1/7 !important;
+    }
+    .card-2{
+        grid-column: 7/13 !important;
+    }
+
+    .card-3{
+        grid-column: 1/7 !important;
+    }
+
+    .card-4{
+        grid-column: 7/13 !important;
+    }
+
+    .revenue-box {
+        grid-column: 1/13 !important;
+    }
+
+    .map-box {
+        grid-column: 1/13 !important;
+    }
+
+    .best-selling{
+        grid-column: 1/13 !important;
+    }
+
+    .top-selling{
+        grid-column: 1/13 !important;
+    }
+
+    .stores-visit{
+        grid-column: 1/13 !important;
+    }
+
+    .recent-orders{
+        grid-column: 1/13 !important;
+    }
+
+    aside {
+        width: 250px;
+        background-color: var(--main-color);
+        position: fixed;
+        top: 0;
+        left: 0;
+        color: white;
+        border-right: 0px solid var(--bg-right);
+        padding: 0 5px;
+        z-index: 999;
+        display: block;
+    }
+
+    main{
+        margin-left: 250px;
+        background-color: var(--search-bg-color);
+    }
+}
+
+@media(min-width:1200px) {
+    aside {
+        display: block;
+    }
+
+    .gap-3{
+        gap: 1.25rem;
+    }
+
+    main{
+        margin-left: 250px;
+    }
+
+    .d-xl-none {
+        display: none;
+    }
+
+    .d-xl-block {
+        display: block;
+    }
+
+    .d-xl-inline{
+        display: inline-block;
+    }
+
+    .card-1{
+        grid-column: 1/7 !important;
+    }
+    .card-2{
+        grid-column: 7/13 !important;
+    }
+
+    .card-3{
+        grid-column: 1/7 !important;
+    }
+
+    .card-4{
+        grid-column: 7/13 !important;
+    }
+
+    .revenue-box {
+        grid-column: 1/9 !important;
+    }
+
+    .map-box {
+        grid-column: 9/13 !important;
+    }
+
+    .best-selling{
+        grid-column: 1/7 !important;
+    }
+
+    .top-selling{
+        grid-column: 7/13 !important;
+    }
+
+    .stores-visit{
+        grid-column: 1/13 !important;
+        padding: 10px 0 20px 0;
+    }
+
+    #pie{
+        width: 75% ;
+        margin: auto ;
+    }
+
+    .recent-orders{
+        grid-column: 1/13 !important;
+    }
+
+    aside {
+        width: 250px;
+        background-color: var(--main-color);
+        position: fixed;
+        top: 0;
+        left: 0;
+        color: white;
+        border-right: 0px solid var(--bg-right);
+        padding: 0 5px;
+        z-index: 999;
+    }
+
+    main{
+        margin-left: 250px;
+        background-color: var(--search-bg-color);
+    }
+}
+
+@media(min-width:1400px) {
+    aside {
+        display: block;
+    }
+
+    .gap-3{
+        gap: 1.25rem;
+    }
+
+    main{
+        margin-left: 250px;
+    }
+
+    .d-xxl-block {
+        display: block;
+    }
+
+    .d-xxl-inline{
+        display: inline-block;
+    }
+
+    .card-1 {
+        grid-column: 1/4 !important;
+    }
+
+    .card-2{
+        grid-column: 4/7 !important;
+    }
+
+    .card-3{
+        grid-column: 7/10 !important;
+    }
+
+    .card-4{
+        grid-column: 10/13 !important;
+    }
+
+    .revenue-box {
+        grid-column: 1/9 !important;
+    }
+
+    .map-box {
+        grid-column: 9/13 !important;
+    }
+
+    .best-selling{
+        grid-column: 1/7 !important;
+    }
+
+    .top-selling{
+        grid-column: 7/13 !important;
+    }
+
+    .stores-visit{
+        grid-column: 1/5 !important;
+    }
+
+    #pie{
+        padding: 10px 20px !important;
+        width: 100% !important;
+        margin: 0;
+    }
+
+    .recent-orders{
+        grid-column: 5/13 !important;
+    }
+
+    aside {
+        width: 250px;
+        background-color: var(--main-color);
+        position: fixed;
+        top: 0;
+        left: 0;
+        color: white;
+        border-right: 0px solid var(--bg-right);
+        padding: 0 5px;
+        z-index: 999;
+    }
+
+    main{
+        margin-left: 250px;
+        background-color: var(--search-bg-color);
+    }
+}
